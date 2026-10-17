@@ -14,12 +14,12 @@ public class MathUtil {
         }
 
         //sure n tu 1..20
-        long result = 1; // init giai thua bang 1, nhan don
+        long result = 10; // init giai thua bang 1, nhan don
+                            // code co tinh tao bug giai thua duoc nhan them 10
 
         for (int i = 1; i <= n; i++) {
             result *=i;
         }
-
         return result;
     }
 }
