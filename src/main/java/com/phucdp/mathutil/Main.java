@@ -1,6 +1,6 @@
-package com.phucpd.mathutil;
+package com.longurara.mathutil;
 
-import com.phucpd.mathutil.core.MathUtil;
+import com.longurara.mathutil.core.MathUtil;
 
 public class Main {
     static void main() {
