@@ -1,4 +1,4 @@
-package com.longurara.mathutil.core;
+package com.phucdp.mathutil.core;
 
 import org.junit.jupiter.api.Test;
 

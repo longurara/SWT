@@ -1,4 +1,4 @@
-package com.longurara.mathutil.core;
+package com.phucdp.mathutil.core;
 
 public class MathUtil {
     public static long getFactorial(int n) {
